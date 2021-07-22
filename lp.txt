@@ -1,21 +1,21 @@
-                                        
-               .;xr .LPLx.              
-          .ckNMN0c  LPLPNMNkc.          
-        cKMKo'     LPP    ,oXMK:        
-      lWWd.       LPL        .dWNc      
-    .KMx         LPL           .kMK.    
-   .WM;         LPL   LP         :MN.   
-   NM;         LPL   LPLP         :MX   
-  dMk         LPL   LPLPLP         0Ml  
-  NM,        LPL   LPL  LPL        :MK  
-  MM.       LPL   LPL    LPL       'MW  
-  NM,      LPL   LPL      LPL      :MK  
-  oMO     LPL   LPL        LPL     0Ml  
-   NM:   LPLPLPLPLPLPLPLPLPLPLP   cMX   
-   'NM: '"""""LPL""""""""""""""' cMN'   
-    '0Mk.    LPL               .OM0     
-      :NMx. LPL              .xMN:      
-        :0MLPL           .;dNM0;        
-          "LP  xKObxxxOXWMXxP'          
-               .';:cc:;"'               
+${c1}
+               .;xr ${c2}.LPL${c1}x.              
+          .ckNMN0c  ${c2}LPLP${c1}NMNkc.          
+        cKMKo'     ${c2}LPP${c1}    ,oXMK:        
+      lWWd.       ${c2}LPL${c1}        .dWNc      
+    .KMx         ${c2}LPL${c1}           .kMK.    
+   .WM;         ${c2}LPL   LP         ${c1}:MN.   
+   NM;         ${c2}LPL   LPLP         ${c1}:MX   
+  dMk         ${c2}LPL   LPLPLP         ${c1}0Ml  
+  NM,        ${c2}LPL   LPL  LPL        ${c1}:MK  
+  MM.       ${c2}LPL   LPL    LPL       ${c1}'MW  
+  NM,      ${c2}LPL   LPL      LPL      ${c1}:MK  
+  oMO     ${c2}LPL   LPL        LPL     ${c1}0Ml  
+   NM:   ${c2}LPLPLPLPLPLPLPLPLPLPLP   ${c1}cMX   
+   'NM: ${c2}'"""""LPL""""""""""""""' ${c1}cMN'   
+    '0Mk.    ${c2}LPL               ${c1}.OM0     
+      :NMx. ${c2}LPL              ${c1}.xMN:      
+        :0M${c2}LPL           ${c1}.;dNM0;        
+          ${c2}"LP  ${c1}xKObxxxOXWMXxP'          
+               ${c1}'"::cc::"'               
                                         
