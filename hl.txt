@@ -1,10 +1,11 @@
+${c1}
                 ,oOXWMMWXOo,              
             ;dKWMMMMMMMMMMMMWKd;          
-         ;OMMMW0d:,......,:d0WMMMO;       
+         ;OMMMW0d:"'`````'":d0WMMMO;       
        cNMMNd'                'dNMMNc     
      'XMMX:     ;xxxkk:          :XMMX'   
     :MMMo       oMMMMMM'           oMMM:  
-   :MMM;         ..:MMMN            ;MMM: 
+   :MMM;         ``'MMMN            ;MMM: 
   .WMM:             0MMM0            :MMW.
   xMMO             kMMMMMo            0MMx
   NMM:           .0MMMMMMM;           :MMN
@@ -13,9 +14,9 @@
   xMM0        lMMMMl    xMMMk         0MMx
   .WMM:      xMMMN,      KMMM0XWK    :MMW.
    ;MMM;   .0MMMK.       .WMMMMN0'  ;MMM; 
-    :WMMd  .....          ,o;.     dMMW;  
+    :WMMd  ``````        ```````  dMMW;  
      .KMMNc                      cNMMK.   
        :XMMWx,                ,xWMMX:     
-         ;OWMMMKxc,'....',cdKMMMWO;       
-            ,d0WMMMMMMMMMMMMW0d,          
+         ;OWMMMKxc,......,cdKMMMWO;       
+            'd0WMMMMMMMMMMMMW0d'          
                 'oOXWMMWXOo'              
