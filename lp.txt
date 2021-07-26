@@ -1,13 +1,13 @@
 ${c1}
                .;xr ${c2}.LPL${c1}x.              
           .ckNMN0c  ${c2}LPLP${c1}NMNkc.          
-        cKMKo'     ${c2}LPP${c1}    ,oXMK:        
-      lWWd.       ${c2}LPL${c1}        .dWNc      
+        cKMKo`     ${c2}LPP${c1}    `lXMK:        
+      lWWd`       ${c2}LPL${c1}        `dWNc      
     .KMx         ${c2}LPL${c1}           .kMK.    
    .WM;         ${c2}LPL   LP         ${c1}:MN.   
    NM;         ${c2}LPL   LPLP         ${c1}:MX   
   dMk         ${c2}LPL   LPLPLP         ${c1}0Ml  
-  NM,        ${c2}LPL   LPL  LPL        ${c1}:MK  
+  NM;        ${c2}LPL   LPL  LPL        ${c1}:MK  
   MM.       ${c2}LPL   LPL    LPL       ${c1}'MW  
   NM,      ${c2}LPL   LPL      LPL      ${c1}:MK  
   oMO     ${c2}LPL   LPL        LPL     ${c1}0Ml  
